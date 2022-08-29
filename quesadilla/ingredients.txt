@@ -1,5 +1,6 @@
 Tortilla
-Shallot
+Chicken	
+Shallots
 Garlic
 Texmex cheese
 Olive oil
